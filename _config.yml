@@ -1,0 +1,28 @@
+name: ABC Schoolhouse
+favicon: null
+layout_spectrum: 0.28908062796108425
+typography_spectrum: 0.31046472513116896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5889949388802052
+  lightness: 0.5617285252083093
+  saturation: 0.006130805471912026
+  rhythmicContrast: 0.47604522900655866
+purpose: []
